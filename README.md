@@ -7,11 +7,10 @@ Automated, iterative curation of protein multiple sequence alignments. Removes a
 **Authors:** RAG, MMM & SMA
 
 \- Rivero, Alexander Gabriel (main developer)
-
+https://orcid.org/0009-0001-5813-7865
 \- Manifesto, María Marcela (supervisor / co-author)
-
+https://orcid.org/0000-0001-7333-0826
 \- Soria, Marcelo Abel (supervisor / co-author)
-
 https://orcid.org/0000-0001-8556-147X
 
 ## Overview
